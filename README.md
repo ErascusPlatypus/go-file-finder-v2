@@ -26,6 +26,7 @@ go build -o pro10_tv_finder
 ```bash
 # Search current directory
 ./pro10_tv_finder
+```
 
 ## Screenshots
 
