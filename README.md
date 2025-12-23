@@ -128,10 +128,6 @@ Contributions welcome. Potential improvements:
 - Persistent index caching
 - File system watcher for live updates
 
-## License
-
-MIT License
-
 ## Dependencies
 
 - github.com/rivo/tview - Terminal UI
